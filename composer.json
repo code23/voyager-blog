@@ -1,5 +1,5 @@
 {
-    "name": "pvtl/voyager-blog",
+    "name": "code23/voyager-blog",
     "description": "Ahoy! - A package to provide a blog to Voyager",
     "keywords": [
         "laravel",
@@ -12,13 +12,13 @@
     "type": "library",
     "authors": [
         {
-            "name": "Pivotal Agency",
-            "homepage": "http://pivotalagency.com.au",
-            "email": "tech@pivotalagency.com.au"
+            "name": "Barna Nagy (Code23)",
+            "homepage": "https://www.code23.com",
+            "email": "support@code23.com"
         }
     ],
     "require": {
-        "tcg/voyager": "^1.1.8",
+        "tcg/voyager": "^1.6",
         "laravel/legacy-factories": "^1.1.0"
     },
     "require-dev": {
